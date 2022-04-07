@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
           children: [
             Row(children: [
               Text(
-                "Popular Course"
+                "Popular Course",
                 style: TextStyle(fontWeight: FontWeight.bold, fontSize: 30),
                 ),
             ],)
